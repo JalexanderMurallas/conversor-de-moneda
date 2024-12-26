@@ -4,3 +4,33 @@ Cantidad preliminar:10.0 USD
 Tipo de Cambio:4414.2316 COP/USD
 Resultado de operación:44.142,32 COP
 **********
+
+Fecha de operación:26/12/2024
+Cantidad preliminar:10.0 USD
+Tipo de Cambio:4414.2316 COP/USD
+Resultado de operación:44.142,32 COP
+**********
+
+Fecha de operación:26/12/2024
+Cantidad preliminar:1000000.0 ARS
+Tipo de Cambio:4.295 COP/ARS
+Resultado de operación:4.295.000,00 COP
+**********
+
+Fecha de operación:26/12/2024
+Cantidad preliminar:10.0 USD
+Tipo de Cambio:4414.2316 COP/USD
+Resultado de operación:44.142,32 COP
+**********
+
+Fecha de operación:26/12/2024
+Cantidad preliminar:1000000.0 ARS
+Tipo de Cambio:4.295 COP/ARS
+Resultado de operación:4.295.000,00 COP
+**********
+
+Fecha de operación:26/12/2024
+Cantidad preliminar:10.0 USD
+Tipo de Cambio:1027.75 ARS/USD
+Resultado de operación:10.277,50 ARS
+**********
